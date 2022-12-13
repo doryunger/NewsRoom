@@ -30,7 +30,7 @@
     "rxjs": "6.4.0",
     "rxjs-compat": "6.3.3",
     "zone.js": "0.9.1",
-    "express":"4.17.1",
+    "express":"4.17.3",
     "nodemon":"2.0.4"
 
   },
